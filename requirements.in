@@ -1,3 +1,5 @@
+numpy
+
 fastapi
 pydantic-settings
 uvicorn

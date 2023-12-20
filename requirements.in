@@ -1,0 +1,8 @@
+fastapi
+pydantic-settings
+uvicorn
+
+flake8
+isort
+black
+mypy

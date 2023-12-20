@@ -1,3 +1,8 @@
+## Links
+- [Dockerhub]()
+- [Hugging Face](https://huggingface.co/taraslpnu/rn_lpnu) - Lab 3 materials
+
+# Завдання
 ## MLOps - Lab 4
 
 У лаборатроній оботі потрібно виконати наступні кроки:
@@ -15,6 +20,3 @@
 - Веб-сервер повинен працювати на 8000 порті
 - Docker image на DockerHub повинні бути загальнодоступними
 - У склад фінальної оцінки також буде враховуватися якість коду
-
-Посилання на матеріали з Lab 3
-https://huggingface.co/taraslpnu/rn_lpnu

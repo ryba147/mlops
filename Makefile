@@ -29,7 +29,7 @@ run:
 	uvicorn app.main:app --port 8000 --reload
 
 build:
-	echo
+	docker build -t taraslpnu079/rl_model:1.0 .
 
 up:
-	echo
+	docker run -p 8000:8000 -it taraslpnu079/rl_model:1.0

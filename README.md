@@ -1,5 +1,5 @@
 ## Links
-- [Dockerhub]()
+- [Dockerhub](https://hub.docker.com/repository/docker/taraslpnu079/rl_model/general)
 - [Hugging Face](https://huggingface.co/taraslpnu/rn_lpnu) - Lab 3 materials
 
 # Завдання

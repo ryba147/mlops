@@ -2,6 +2,10 @@ fastapi
 pydantic-settings
 uvicorn
 
+stable-baselines3
+huggingface-hub
+huggingface-sb3
+
 flake8
 isort
 black

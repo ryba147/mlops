@@ -1,5 +1,7 @@
 .idea
 .DS_STORE
+.mypy_cache
+.env
 
 venv/
 __pycache__/
